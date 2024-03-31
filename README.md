@@ -2,7 +2,6 @@ This application was developed using React, TypeScript, Tailwind and the SpeechR
 
 Running
 After cloning the repository, access the project folder and execute the commands below:
-
-npm install
-npm run dev
+<p>npm install</p>
+<p>npm run dev</p>
 Visit http://localhost:5173 to view the application.
